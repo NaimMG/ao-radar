@@ -12,6 +12,7 @@ env/
 .pytest_cache/
 .mypy_cache/
 .ruff_cache/
+ao-radar-env/
 
 # --- Environment / secrets ---
 .env
